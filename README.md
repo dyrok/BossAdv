@@ -2,25 +2,41 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/uses-html.svg" ></a>
  </p>
 <p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.2-blue" ></a>  
+<a href="https://github.com/Ignitetch/BossAdv/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-1.0-greeb" ></a>  
 </p>
 <img src="https://user-images.githubusercontent.com/55870659/92557010-185f5e80-f220-11ea-8d70-6a5208433ea6.png"></a>
-<p align="center">
-  <b> Follow on Social Media Platforms </b>
-</p>
-<a herf="https://www.instagram.com/reel/CfHKuMMgeKW/?igshid=YmMyMTA2M2Y="><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" >
+
 
 <br>
 <br>
-<br>
-<br>
+
+### Features
+> Tool Working ✅
+
+> Server Working ✅
+
+> Size Decreased 100mb ✅
+
+> All Problems Fixed ✅
+
+### Recoder🔥✅👽🤗
+
+> I am Recoding Long Time 😔✅
+
+> After Fixed This Errors And Servers ✅🔥
+
+> This Uploading Process Very Long Time 😔
+
+> I am Using Android Phone 🤳
+
+> Give Minimum GitHub Star ⭐ 😁🤭
 
 
 ### TECHNIQUE
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
 
-### SCREENSHOT ( KALI )
+### SCREENSHOT 
 ![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
 ![2](https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png)
 
@@ -31,9 +47,9 @@ When victim enter his credentials, you need to go to original website and use th
 
 
 
-### INSTALLATION [ TERMUX APP --ANDROID ]
+### INSTALLATION [ TERMUX]
 ```
-git clone https://github.com/Ignitetch/AdvPhishing.git
+git clone https://github.com/The-Boss-Hacker/BossAdv.git
 cd AdvPhishing/
 chmod 777 *
 ./Android-Setup.sh
@@ -42,7 +58,7 @@ chmod 777 *
 
 ### INSTALLATION [ KALI ]
 ```
-git clone https://github.com/Ignitetch/AdvPhishing.git
+git clone https://github.com/The-Boss-Hacker/BossAdv.git
 cd AdvPhishing/
 chmod 777 *
 ./Linux-Setup.sh
