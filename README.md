@@ -4,22 +4,11 @@
 <p align="center">
 <a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.2-blue" ></a>  
 </p>
-<img src="https://user-images.githubusercontent.com/55870659/92557010-185f5e80-f220-11ea-8d70-6a5208433ea6.png">
+<img src="https://user-images.githubusercontent.com/55870659/92557010-185f5e80-f220-11ea-8d70-6a5208433ea6.png"></a>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
-<p align="center">
-<a href="https://www.facebook.com/secnhack"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a><a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" src="https://img.shields.io/badge/-youtube-red" ></a><a href="https://twitter.com/secnhack?lang=en"><img title="GitHub version" src="https://img.shields.io/badge/-Twitter-blue" ></a>
-</p>
-<p align="center">
-  <b> Contribute us</b>
-</p>
-<p align="center">
-<a href="https://www.paypal.com/paypalme2/Goyal827"><img title="GitHub version" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
-<p align="center">
-  <b> Want to Learn to Create Professional Phishing Page, Ethical Hacking, Bug Bounty visit - https://secnhack.in  </b>
-</p>
+<a herf="https://www.instagram.com/reel/CfHKuMMgeKW/?igshid=YmMyMTA2M2Y="><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" >
 
 <br>
 <br>
@@ -30,8 +19,6 @@
 ### TECHNIQUE
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
-### TUTORIAL [ KALI ]
-[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=U1nYsNLlFsw)
 
 ### SCREENSHOT ( KALI )
 ![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
