@@ -52,8 +52,8 @@ When victim enter his credentials, you need to go to original website and use th
 git clone https://github.com/The-Boss-Hacker/BossAdv.git
 cd BossAdv/
 chmod 777 *
-./Android-Setup.sh
-./AdvPhishing.sh
+bash Android-Setup.sh
+bash AdvPhishing.sh
 ```
 
 ### INSTALLATION [ KALI ]
@@ -61,8 +61,8 @@ chmod 777 *
 git clone https://github.com/The-Boss-Hacker/BossAdv.git
 cd BossAdv/
 chmod 777 *
-./Linux-Setup.sh
-./AdvPhishing.sh
+bash Linux-Setup.sh
+bash AdvPhishing.sh
 ```
 ### AVAILABLE TUNNELLING OPTIONS
 1. LOCALHOST
