@@ -50,7 +50,7 @@ When victim enter his credentials, you need to go to original website and use th
 ### INSTALLATION [ TERMUX]
 ```
 git clone https://github.com/The-Boss-Hacker/BossAdv.git
-cd AdvPhishing/
+cd BossAdv/
 chmod 777 *
 ./Android-Setup.sh
 ./AdvPhishing.sh
@@ -59,7 +59,7 @@ chmod 777 *
 ### INSTALLATION [ KALI ]
 ```
 git clone https://github.com/The-Boss-Hacker/BossAdv.git
-cd AdvPhishing/
+cd BossAdv/
 chmod 777 *
 ./Linux-Setup.sh
 ./AdvPhishing.sh
