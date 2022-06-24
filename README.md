@@ -76,10 +76,9 @@ bash AdvPhishing.sh
 * Arch Linux
 * Termux App
 ### PREREQUISITES
-* sudo - [ MUST ]
+* sudo - [ MUST FOR LINUX ]
 * php
 * apache2
-* ngrok Token
 
 
 ### DISCLAIMER
