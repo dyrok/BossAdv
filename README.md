@@ -78,9 +78,9 @@ bash AdvPhishing.sh
 1. LOCALHOST
 2. CloudFlare 
 ### TESTED ON FOLLOWING:-
-* Kali Linux - 2020.1a (version)
-* Parrot OS - Rolling Edition (version)
-* Ubuntu - 18.04 (version)
+* Kali Linux 
+* Parrot OS 
+* Ubuntu 
 * Arch Linux
 * Termux App
 ### PREREQUISITES
