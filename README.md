@@ -74,9 +74,6 @@ chmod 777 *
 bash Linux-Setup.sh
 bash AdvPhishing.sh
 ```
-### AVAILABLE TUNNELLING OPTIONS
-1. LOCALHOST
-2. CloudFlare 
 ### TESTED ON FOLLOWING:-
 * Kali Linux 
 * Parrot OS 
